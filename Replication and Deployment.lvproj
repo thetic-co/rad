@@ -435,29 +435,29 @@
 			<Item Name="CRI Get Remote cRIO Backplane Info.vi" Type="VI" URL="/../&lt;userlib&gt;/_CRI/CRI Get Remote cRIO Backplane Info.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="RAD Application" Type="EXE">
+			<Item Name="RAD Application-thetic" Type="EXE">
 				<Property Name="App_INI_aliasGUID" Type="Str">{7D14A81A-E53C-4998-B1C4-A9ACCEE9DDDE}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{AA07335B-8AD4-48AC-937C-281A67E33F5C}</Property>
 				<Property Name="App_serverType" Type="Int">1</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{3BE514FF-1FF4-400A-A73A-71161C9C329F}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">RAD Application</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">RAD Application-thetic</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">/C/Builds/RAD</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/Builds/RAD-thetic</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{486A52BE-31E2-4D34-8023-C82BB52A7B36}</Property>
 				<Property Name="Bld_version.build" Type="Int">1</Property>
 				<Property Name="Bld_version.major" Type="Int">16</Property>
-				<Property Name="Destination[0].destName" Type="Str">RAD.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">/C/Builds/RAD/RAD.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">RAD-thetic.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Builds/RAD-thetic/RAD-thetic.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">/C/Builds/RAD</Property>
+				<Property Name="Destination[1].path" Type="Path">/C/Builds/RAD-thetic</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{95F44F49-C3F8-4B6F-8DBF-3267CEE3E099}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{339F6113-315D-42E0-BA11-28C6E92228D2}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Replication and Deployment Utility.vi</Property>
@@ -486,12 +486,12 @@
 				<Property Name="Source[6].type" Type="Str">Container</Property>
 				<Property Name="SourceCount" Type="Int">7</Property>
 				<Property Name="TgtF_companyName" Type="Str">National Instruments</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">RAD Application</Property>
-				<Property Name="TgtF_internalName" Type="Str">RAD Application</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">RAD Application-thetic</Property>
+				<Property Name="TgtF_internalName" Type="Str">RAD Application-thetic</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2014 NI Systems Engineering</Property>
 				<Property Name="TgtF_productName" Type="Str">Replication And Deployment Utility</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{E3B51CED-D1AB-4FB4-AB3B-5919B2F7418B}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">RAD.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">RAD-thetic.exe</Property>
 			</Item>
 			<Item Name="RAD Installer" Type="Installer">
 				<Property Name="Destination[0].name" Type="Str">project</Property>
@@ -558,7 +558,7 @@
 				<Property Name="Source[0].File[2].tag" Type="Str">{AA07335B-8AD4-48AC-937C-281A67E33F5C}</Property>
 				<Property Name="Source[0].FileCount" Type="Int">3</Property>
 				<Property Name="Source[0].name" Type="Str">RAD Application</Property>
-				<Property Name="Source[0].tag" Type="Ref">/My Computer/Build Specifications/RAD Application</Property>
+				<Property Name="Source[0].tag" Type="Ref">/My Computer/Build Specifications/RAD Application-thetic</Property>
 				<Property Name="Source[0].type" Type="Str">EXE</Property>
 				<Property Name="Source[2].dest" Type="Str">{034CC805-8227-43BF-9FA9-8889B7E771CD}</Property>
 				<Property Name="Source[2].name" Type="Str">Start RAD.vi</Property>
