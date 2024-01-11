@@ -30,7 +30,6 @@
 		<Property Name="server.viscripting.showScriptingOperationsInEditor" Type="Bool">false</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Replication and Deployment Utility.vi" Type="VI" URL="../Replication and Deployment Utility.vi"/>
-		<Item Name="Replication and Deployment.aliases" Type="Document" URL="../Replication and Deployment.aliases"/>
 		<Item Name="source" Type="Folder">
 			<Item Name="project" Type="Folder">
 				<Item Name="_Open VI FP.vi" Type="VI" URL="../project/_Open VI FP.vi"/>
