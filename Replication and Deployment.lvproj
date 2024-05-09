@@ -442,21 +442,20 @@
 				<Property Name="Bld_buildSpecName" Type="Str">RAD Application-thetic</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">/C/Builds/RAD-thetic</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents/RAD-thetic</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{486A52BE-31E2-4D34-8023-C82BB52A7B36}</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
-				<Property Name="Bld_version.major" Type="Int">16</Property>
+				<Property Name="Bld_version.major" Type="Int">23</Property>
 				<Property Name="Destination[0].destName" Type="Str">RAD-thetic.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">/C/Builds/RAD-thetic/RAD-thetic.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/RAD-thetic/RAD-thetic.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">/C/Builds/RAD-thetic</Property>
+				<Property Name="Destination[1].path" Type="Path">/C/Users/Public/Documents/RAD-thetic</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{339F6113-315D-42E0-BA11-28C6E92228D2}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{035F5D38-E800-4144-A61B-5618F33590CE}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Replication and Deployment Utility.vi</Property>
